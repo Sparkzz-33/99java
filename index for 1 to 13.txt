@@ -1,0 +1,13 @@
+1.	isPrime()
+2.	tower of hanoii()
+3.	calculator()
+4.	Linked list implementation
+5.	Linked list reversal
+6. 	Pairwise Linked list reversal
+7.	Removal of an element in linked list
+8.	Insertion sort in java
+9.	Selection sort in java
+10.	armstrong();
+11.	matrix multiplication();
+12.	bubble sort
+13.	binary search
